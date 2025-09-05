@@ -16,7 +16,7 @@ Software Developer | Entrepreneur
 
 Mohamed is a fourth-year CS student at U of T (Entrepreneurship stream). He splits his time between building full-stack apps and running a fragrance business in Toronto. He enjoys shipping useful things, some of his projects include **QuickSell** (Vision + eBay to speed up listings) and **Touchlink** (a CSC490 prototype where holding hands lights an LED display). He values clear ownership, fast feedback, and keeping solutions simple.  
 
-Outside of tech, Mohamed unwinds by baking, cooking for his roommates, learning French, hunting for late-night movie screenings in Toronto, and trying to keep a semi-regular gym routine.
+Outside of tech, Mohamed unwinds by baking, learning French, hunting for late-night movie screenings in Toronto, trying to keep a semi-regular gym routine and getting outdoors for skiing, winter camping, and trips to remote places.
 
 ## Strengths  
 - Strong mix of technical + entrepreneurial experience  
