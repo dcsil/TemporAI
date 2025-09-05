@@ -2,7 +2,7 @@
 
 ![Mohamed Sbeinati Profile](./temagami_pic.jpeg)
 
-*I'm the one on the left.*
+*Recent camping trip in Temagami with friends, I'm the one on the left.*
 
 **Computer Science, focus in Entrepreneurship**  
 Software Developer | Entrepreneur  
