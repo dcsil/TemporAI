@@ -1,6 +1,6 @@
 # Mohamed Sbeinati  
 
-![Mohamed Sbeinati Profile](./Temagami Pic.jpeg)
+![Mohamed Sbeinati Profile](./temagamic_pic.jpeg)
 
 *I'm the one on the left.*
 
