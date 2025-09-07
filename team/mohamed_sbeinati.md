@@ -1,8 +1,6 @@
 # Mohamed Sbeinati  
 
-![Mohamed Sbeinati Profile](./temagami_pic.jpeg)
-
-*Recent camping trip in Temagami with friends, I'm the one on the left.*
+<img src="./mohamed_sbeinati.jpeg" alt="Mohamed Sbeinati Profile" width="200">
 
 **Computer Science, focus in Entrepreneurship**  
 Software Developer | Entrepreneur  
