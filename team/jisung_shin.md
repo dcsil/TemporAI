@@ -1,6 +1,6 @@
 # Jisung Shin
 
-![Jisung Shin Profile](./jisung_shin.jpg)
+<img src="./jisung_shin.jpg" alt="Jisung Shin Profile" width="200"/>
 
 - AI Research Intern @ [Flybits](#https://flybits.com/)
 - Founding Engineer @ [ProgressFlow](#https://progressflow.io/)
