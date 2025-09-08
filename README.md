@@ -3,7 +3,7 @@
 ![Team Logo](./logo.png)
 
 
-TemporAI builds fast, trusted AI/ML solutions that scale.
+TemporAI turns complexity into lasting intelligence, building AI that adapts as fast as the world changes.
 
 - [People](./team/)
 - [Diversity](./team/diversity.md)

@@ -2,9 +2,8 @@
 
 <img src="./jisung_shin.jpg" alt="Jisung Shin Profile" width="200"/>
 
-- AI Research Intern @ [Flybits](#https://flybits.com/)
-- Founding Engineer @ [ProgressFlow](#https://progressflow.io/)
-- Ex Founder in Residence (TOR7 Cohort) @ [Antler](#https://www.antler.co/residency/canada)
+**Computer Science**   
+AI Researcher | Founder @ [Antler](https://www.antler.co/)
 
 ## Links
 
@@ -15,6 +14,8 @@
 ## About Jisung
 
 Jisung is an AI researcher and entrepreneur with a unique blend of technical depth, innovation, and strategic thinking. Currently studying Computer Science at the University of Toronto, he explores the intersection of AI, audio, and HCI while driving projects that bridge research and practical applications. With experiences ranging from founding an AI startup to research on multi-agents and GNNs, he thrives in high-pressure, fast-paced environments where innovation meets execution. His work reflects a desire to keep learning and to create impact that feel both useful and creative.
+
+Outside of work, Jisung enjoys producing [music](https://open.spotify.com/album/0WrJBerOR9yAtVwsutlTBJ?si=4E8Y1xnxTSevsskNMYRmRQ), watching movies, and playing games. 
 
 ## Strengths
 
@@ -35,3 +36,6 @@ Jisung is an AI researcher and entrepreneur with a unique blend of technical dep
 - Cloud: Docker, AWS, Google Cloud, Firebase, SupaBase
 - Data: Numpy, Pandas, Jupyter
 - Other: Unity, Git
+
+## Closing Note
+A long-time *Starcraft II* competitor, he once reached Masters league (Top 4%).
