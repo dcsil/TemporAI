@@ -28,9 +28,6 @@ Franco is a fourth-year at the University of Toronto studying Computer Science, 
 - Languages: Python, R, SQL, Java, JavaScript/TypeScript, HTML/CSS, MATLAB
 - Libraries & Frameworks: React/Next.js, scikit-learn, pandas, NumPy, PyTorch, SciPy, tidyverse, seaborn, Electron, Vite
 - Tools: Git/GitHub, AWS, Jupyter, Google Colab, Excel/Google Sheets, Jira (Agile)
-
-## Interests
-Reading sci-fi, piano and guitar, digital artwork, watching anime, learning languages
-
+  
 ## Closing Note
 *I once got kicked out of an all-you-can-eat buffet for eating too much.*
