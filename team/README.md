@@ -1,4 +1,4 @@
-[COMPANY NAME Principles](./principles.md)
+[TemporAI Principles](./principles.md)
 
 # People at TemporAI
 - [Franco Miguel Valencia - Leader, Engineering, and Strategy](./francomiguel_valencia.md)
