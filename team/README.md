@@ -1,9 +1,9 @@
 [TemporAI Principles](./principles.md)
 
 # People at TemporAI
-- [Franco Miguel Valencia - Leader, Engineering, and Strategy](./francomiguel_valencia.md)
-- [Jisung Shin - Engineering and Strategy](./jisung_shin.md)
-- [Mohamed Sbeinati - Engineering and Business](./mohamed_sbeinati.md)
+- [Franco Miguel Valencia - Leader, R&D](./francomiguel_valencia.md)
+- [Jisung Shin - Engineering](./jisung_shin.md)
+- [Mohamed Sbeinati - Business](./mohamed_sbeinati.md)
 
 ### Team Leader
 [Franco Miguel Valencia - Leader, Engineering, and Strategy](./francomiguel_valencia.md)  
