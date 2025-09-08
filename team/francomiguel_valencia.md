@@ -2,8 +2,9 @@
 
 <img src="./francomiguel_valencia.JPG" alt="Franco Miguel Valencia Profile" width="200">
 
-- Data Analyst and Software Developer
-- francomiguel.valencia@gmail.com
+**Computer Science, Neuroscience, Psychology**   
+Data Science | Software Development   
+📧 francomiguel.valencia@gmail.com
   
 ## Links
 - [GitHub](https://github.com/Funkey08)
