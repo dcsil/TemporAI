@@ -1,4 +1,5 @@
 # Team Principles
+*This document is subject to evolve.*
 
 ## Communication
 Our primary communication platform will be a private Discord server. To maintain alignment in a fast-moving environment, each member is expected to share a daily update in the `#daily-updates` channel. Updates should follow a consistent format that includes: (1) current tasks, (2) next steps, and (3) blockers. If a member is unable to work on the project during a given period, they must inform the team of their unavailable timeframe and provide a reason, which may be as simple as another course commitment such as midterms.  
