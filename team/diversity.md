@@ -1,4 +1,4 @@
-# Diversity  
+# Diversity in TemporAI
 
 TemporAI turns complexity into lasting intelligence. Building adaptable AI requires more than technical excellence, it demands perspectives shaped by different cultures, languages, disciplines, and lived experiences. This document outlines our team’s background, strengths and weaknesses, areas where subject-matter experts can help, our diversity profile, and how gaps may impact our company, team, and product.  
 
